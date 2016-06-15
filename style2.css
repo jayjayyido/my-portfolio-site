@@ -1,0 +1,28 @@
+h1  {text-align: center;
+}
+footer  {font-size: 22px;
+        text-align: center;
+
+}
+body  {background-color: rgba(150,232,232,0.4);
+}
+header  {text-align: center;
+}
+span  {font-size:13px;
+}
+.italic {font-style: italic;
+}
+ul#menu li{
+    display:inline;
+}
+.relaxr-image {text-align: center;
+}
+.page {background-color: rgba(255, 255, 255, 0.8);
+      margin-left: 20px;
+      margin-top: 20px;
+      margin-right: 20px;
+      background-size:cover;
+}
+.about-me {
+    background-size:cover;
+}
